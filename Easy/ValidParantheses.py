@@ -20,7 +20,7 @@ class Solution(object):
             else:
                 stack.append(char)
 
-        return not stack
+        return True
 
     def main(self):
         print(self.isValid(s="()"))
