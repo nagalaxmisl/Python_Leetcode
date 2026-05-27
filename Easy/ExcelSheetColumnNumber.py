@@ -15,4 +15,4 @@ solution = Solution()
 
 print(solution.titleToNumber("A"))
 print(solution.titleToNumber("AB"))
-print(solution.titleToNumber("ZY"))  
+print(solution.titleToNumber("ZY"))
