@@ -16,7 +16,6 @@ class Solution(object):
 
         return ''.join(stack)
 
-sol = Solution()
-
-print(sol.removeDuplicates("abbaca"))
-print(sol.removeDuplicates("azxxzy"))
+solution = Solution()
+print(solution.removeDuplicates("abbaca"))
+print(solution.removeDuplicates("azxxzy"))
